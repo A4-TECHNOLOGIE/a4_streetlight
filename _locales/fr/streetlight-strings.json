@@ -1,46 +1,20 @@
 {
     "a4_streetlight": "A4 Lampadaire",
 
-    "a4_streetlight.StreetlightColor.Nature": "Zone nature 1800 K",
     "a4_streetlight.StreetlightColor.Nature|block": "Zone nature 1800 K",
-    "a4_streetlight.StreetlightColor.Nature|tooltip": "Éclairage ambré chaud, adapté aux zones naturelles.",
-
-    "a4_streetlight.StreetlightColor.Park": "Parc 2200 K",
     "a4_streetlight.StreetlightColor.Park|block": "Parc 2200 K",
-    "a4_streetlight.StreetlightColor.Park|tooltip": "Éclairage blanc très chaud, adapté aux parcs et aux espaces extérieurs calmes.",
-
-    "a4_streetlight.StreetlightColor.Residence": "Résidence 2700 K",
     "a4_streetlight.StreetlightColor.Residence|block": "Résidence 2700 K",
-    "a4_streetlight.StreetlightColor.Residence|tooltip": "Éclairage blanc chaud, adapté aux zones résidentielles.",
-
-    "a4_streetlight.StreetlightColor.Urban": "Urbain 3000 K",
     "a4_streetlight.StreetlightColor.Urban|block": "Urbain 3000 K",
-    "a4_streetlight.StreetlightColor.Urban|tooltip": "Éclairage blanc chaud neutre, adapté aux zones urbaines.",
-
-    "a4_streetlight.StreetlightColor.Pedestrian": "Passage piéton 6500 K",
     "a4_streetlight.StreetlightColor.Pedestrian|block": "Passage piéton 6500 K",
-    "a4_streetlight.StreetlightColor.Pedestrian|tooltip": "Éclairage blanc froid, adapté aux passages piétons.",
 
     "a4_streetlight.pedestrianDetected|block": "piéton détecté",
-    "a4_streetlight.pedestrianDetected|tooltip": "Renvoie vrai lorsqu’un piéton est détecté par le capteur de mouvement PIR connecté sur P1.",
-
     "a4_streetlight.lowBrightness|block": "luminosité faible",
-    "a4_streetlight.lowBrightness|tooltip": "Renvoie vrai lorsque le niveau de luminosité mesuré par la micro:bit est très faible.",
 
     "a4_streetlight.streetlightPower|block": "puissance lampadaire %value \\%",
-    "a4_streetlight.streetlightPower|tooltip": "Règle la puissance lumineuse des LED du lampadaire de 0 à 100 %.",
-    "a4_streetlight.streetlightPower|param|value": "Puissance lumineuse en pourcentage, par exemple : 50",
 
     "a4_streetlight.turnOnRGB|block": "allumer lampadaire R %red V %green B %blue",
-    "a4_streetlight.turnOnRGB|tooltip": "Allume le lampadaire avec une couleur RVB personnalisée.",
-    "a4_streetlight.turnOnRGB|param|red": "Valeur de rouge de 0 à 255, par exemple : 255",
-    "a4_streetlight.turnOnRGB|param|green": "Valeur de vert de 0 à 255, par exemple : 125",
-    "a4_streetlight.turnOnRGB|param|blue": "Valeur de bleu de 0 à 255, par exemple : 0",
 
     "a4_streetlight.turnOnStreetlight|block": "allumer le lampadaire %color",
-    "a4_streetlight.turnOnStreetlight|tooltip": "Allume le lampadaire avec un mode d’éclairage prédéfini.",
-    "a4_streetlight.turnOnStreetlight|param|color": "Mode d’éclairage prédéfini",
 
-    "a4_streetlight.turnOffStreetlight|block": "éteindre le lampadaire",
-    "a4_streetlight.turnOffStreetlight|tooltip": "Éteint toutes les LED du lampadaire."
+    "a4_streetlight.turnOffStreetlight|block": "éteindre le lampadaire"
 }
