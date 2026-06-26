@@ -1,0 +1,23 @@
+{
+    "a4_streetlight.StreetlightColor.Nature": "Éclairage ambré chaud, adapté aux zones naturelles.",
+    "a4_streetlight.StreetlightColor.Park": "Éclairage blanc très chaud, adapté aux parcs et aux espaces extérieurs calmes.",
+    "a4_streetlight.StreetlightColor.Residence": "Éclairage blanc chaud, adapté aux zones résidentielles.",
+    "a4_streetlight.StreetlightColor.Urban": "Éclairage blanc chaud neutre, adapté aux zones urbaines.",
+    "a4_streetlight.StreetlightColor.Pedestrian": "Éclairage blanc froid, adapté aux passages piétons.",
+
+    "a4_streetlight.pedestrianDetected": "Renvoie vrai lorsqu’un piéton est détecté par le capteur de mouvement PIR connecté sur P1.",
+    "a4_streetlight.lowBrightness": "Renvoie vrai lorsque le niveau de luminosité mesuré par la micro:bit est très faible.",
+
+    "a4_streetlight.streetlightPower": "Règle la puissance lumineuse des LED du lampadaire de 0 à 100 %.",
+    "a4_streetlight.streetlightPower|param|value": "Puissance lumineuse en pourcentage, par exemple : 50.",
+
+    "a4_streetlight.turnOnRGB": "Allume le lampadaire avec une couleur RVB personnalisée.",
+    "a4_streetlight.turnOnRGB|param|red": "Valeur de rouge de 0 à 255, par exemple : 255.",
+    "a4_streetlight.turnOnRGB|param|green": "Valeur de vert de 0 à 255, par exemple : 125.",
+    "a4_streetlight.turnOnRGB|param|blue": "Valeur de bleu de 0 à 255, par exemple : 0.",
+
+    "a4_streetlight.turnOnStreetlight": "Allume le lampadaire avec un mode d’éclairage prédéfini.",
+    "a4_streetlight.turnOnStreetlight|param|color": "Mode d’éclairage prédéfini.",
+
+    "a4_streetlight.turnOffStreetlight": "Éteint toutes les LED du lampadaire."
+}
