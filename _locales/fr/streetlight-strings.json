@@ -1,6 +1,5 @@
 {
     "a4_streetlight|block": "A4 Lampadaire",
-    "{id:category}a4 Streetlight": "A4 Lampadaire",
     "{id:category}A4 Streetlight": "A4 Lampadaire",
 
     "a4_streetlight.StreetlightColor.Nature|block": "Zone nature 1800 K",
