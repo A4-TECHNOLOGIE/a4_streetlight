@@ -1,4 +1,6 @@
 {
+    "a4_streetlight": "Blocs pour piloter la maquette de lampadaire A4 Technologie.",
+
     "a4_streetlight.StreetlightColor.Nature": "Éclairage ambré chaud, adapté aux zones naturelles.",
     "a4_streetlight.StreetlightColor.Park": "Éclairage blanc très chaud, adapté aux parcs et aux espaces extérieurs calmes.",
     "a4_streetlight.StreetlightColor.Residence": "Éclairage blanc chaud, adapté aux zones résidentielles.",
