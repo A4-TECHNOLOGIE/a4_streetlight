@@ -13,7 +13,7 @@
         "README.md",
         "lampadaire.ts",
         "_locales/fr/streetlight-strings.json",
-        "_locales/fr/streetlight-jsdoc-strings.json"
+        "_locales/fr/streetlight-jsdocs-strings.json"
     ],
     "testFiles": [
         "test.ts"
