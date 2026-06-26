@@ -1,4 +1,4 @@
-//% color="#f2a900" icon="\uf0eb" block="a4 Streetlight"
+//% color="#f2a900" icon="\uf0eb" block="A4 Streetlight"
 namespace a4_streetlight {
     let strip: neopixel.Strip = null
     let power = 50
