@@ -12,8 +12,8 @@
         "main.ts",
         "README.md",
         "lampadaire.ts",
-        "_locales/fr/streetlight-strings.json",
-        "_locales/fr/streetlight-jsdoc-strings.json"
+        "_locales/fr/a4_streetlight-strings.json",
+        "_locales/fr/a4_streetlight-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts"
